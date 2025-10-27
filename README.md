@@ -1,0 +1,1 @@
+1st train the model with the given custom dataset in 50 epochs. After that, again train the model in 100 epochs. Then go to folder run -> detect -> train -> weights -> 'best.pt'(Use this model)(1st train the model then use it, in the updated folder)
